@@ -612,8 +612,7 @@ body {
   }
 
   .input-group-filter-field {
-    width: 150px;
-    max-width: 700px;
+    width: 136px
     margin: 0 auto;
     margin-bottom: 20px;
   }
@@ -708,9 +707,7 @@ body {
   }
 
   .tour-btn {
-    font-size: 1.2rem !important;
-    position: relative;
-    left: -7%;
+    font-size: 1rem !important;
   }
 
   .inc-header {
