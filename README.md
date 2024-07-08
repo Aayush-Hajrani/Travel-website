@@ -1,4 +1,4 @@
- Travel Treks - Travel Website
+# Travel Treks - Travel Website
 
 Travel Treks is fully responsive travel website for all devices,built using HTML,CSS,Javacript and bootstrap.
 
