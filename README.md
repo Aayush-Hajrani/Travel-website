@@ -4,16 +4,16 @@ Travel Treks is fully responsive travel website for all devices,built using HTML
 
        [Live Demo](https://screwthinker1.netlify.app)
 
-  Features
+## 🔗 Features
 User-friendly interface
 Interactive exploration tools
 Responsive design for all devices
 
- Technology Used
+## 🔗 Technology Used
 HTML
 CSS
 Javascript
 Bootstrap
 
-Contact
+## 🔗Contact
 If you want to contact with me, you can reach out to me through [Email](mailto:ayushhajrani03@gmail.com) 
