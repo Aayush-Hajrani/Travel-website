@@ -2,7 +2,7 @@
 
 Travel Treks is fully responsive travel website for all devices,built using HTML,CSS,Javacript and bootstrap.
 
-       [Live Demo](https://screwthinker1.netlify.app)
+<a href="https://screwthinker1.netlify.app">Live Demo</a>
 
 ## 🔗 Features
 User-friendly interface
