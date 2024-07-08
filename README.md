@@ -1,4 +1,4 @@
-# Travel Treks - Travel Website
+Travel Treks - Travel Website
 
 Travel Treks is fully responsive travel website for all devices,built using HTML,CSS,Javacript and bootstrap.
 
@@ -15,5 +15,5 @@ CSS
 Javascript
 Bootstrap
 
-## 🔗Contact
+## 🔗 Contact
 If you want to contact with me, you can reach out to me through [Email](mailto:ayushhajrani03@gmail.com) 
