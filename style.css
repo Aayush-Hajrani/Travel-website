@@ -181,8 +181,7 @@ body {
 .common-para {
   text-align: center;
   width: 1250px;
-  margin: auto;
-  margin-top: 20px;
+  margin: 20px auto;
   font-weight: 500;
 }
 
